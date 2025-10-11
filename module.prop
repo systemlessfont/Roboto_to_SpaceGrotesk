@@ -1,0 +1,7 @@
+id=harmony
+name=HarmonyOS Sans
+version=1.0
+versionCode=1
+author=ncat
+description=Systemlessly HarmonyOS Sans Font for Android 12+
+minMagisk=20200
